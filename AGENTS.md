@@ -1,3 +1,7 @@
+# Superseded repository
+
+Authoritative repository: https://github.com/rainerpj/unreal-blueprint-workbench. This duplicate was created in error; do not implement or publish updates here.
+
 # Blueprint Workbench
 
 - Standalone source plugin. Shared entry points and ownership: Docs/ARCHITECTURE.md. Current status: docs/CODEX_HANDOFF.md.
